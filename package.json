@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "bootstrap": "^5.3.8"
-  },
-  "scripts": {
-    "build": "echo 'build complete'"
-  }
-}
